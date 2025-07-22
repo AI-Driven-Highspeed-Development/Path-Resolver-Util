@@ -1,1 +1,1 @@
-# ADHD-Path-Resolver
+# Path-Resolver
